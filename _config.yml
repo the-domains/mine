@@ -1,0 +1,14 @@
+layout_spectrum: 0.1578075506258756
+typography_spectrum: 0.37821486382745206
+color:
+  brandStrength: 0.06776974978856742
+  lightness: 0.894061281811446
+  saturation: 0.8884749517310411
+  rhythmicContrast: 0.4233603097964078
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Mine
